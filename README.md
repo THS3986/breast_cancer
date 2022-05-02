@@ -1,5 +1,5 @@
 # breast_cancer
-Prediction of breast cancer whether is benign or maglinant by using 8 diffrent algorithm
+Prediction of breast cancer whether is benign or maglinant by using 8 diffrent algorithm.
 The algorithm are 1) Random Forest (RF)
                   2) Regularized Logistic Regression (GLMNET)
                   3) Logistic Regression (GLM)
